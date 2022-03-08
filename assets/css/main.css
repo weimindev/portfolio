@@ -1212,7 +1212,8 @@ form textarea:focus {
   background: #f8f8f8;
 }
 form input[type=text],
-form input[type=email] input[type=password] {
+form input[type=email],
+form input[type=password] {
   line-height: 1em;
 }
 form select {
